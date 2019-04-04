@@ -1,9 +1,9 @@
 enable : true
 heading : About
 headingSpan : Us
-aboutItem : 
+aboutItem :
 - icon : tf-tools
-  title : We're Creative
+  title : We're Multidisciplinary
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
 - icon : tf-strategy
@@ -11,5 +11,5 @@ aboutItem :
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
 - icon : tf-anchor2
-  title : We're Genius
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : We're Global
+  content : Our team is spreaded around the wolrd (United States, Europe, and Oceania). We speak English, French, Spanish, Portuguese, Italian, and Russian.
