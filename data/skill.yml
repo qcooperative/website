@@ -6,21 +6,21 @@ content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
 image : images/about/company-growth.png
 skillItem :
   - itemNumber : 01-
-    itemName :  Business Development
+    itemName :  QGIS Development
     itemPercent : 90%
-    
+
   - itemNumber : 02-
-    itemName :  Analysis
+    itemName :  QGIS Plugin Developement
     itemPercent : 70%
-    
+
   - itemNumber : 03-
-    itemName :  Design
+    itemName :  Spatial Analysis
     itemPercent : 80%
-    
+
   - itemNumber : 04-
-    itemName :  IOS Development
+    itemName :  Training
     itemPercent : 95%
-    
+
   - itemNumber : 05-
-    itemName :  Andriod Development
+    itemName :  QA and Testing
     itemPercent : 75%

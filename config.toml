@@ -1,4 +1,4 @@
-baseURL = "https://qconsolidade.github.io/website/"
+baseURL = "https://qcooperative.github.io/website/"
 languageCode = "en-us"
 title = "QCooperative"
 theme = "meghna-hugo"
@@ -17,24 +17,14 @@ summaryLength = 10
     weight = 2
 
     [[menu.nav]]
-    name = "Service"
+    name = "Services"
     URL = "services"
     weight = 3
-
-    [[menu.nav]]
-    name = "Portfolio"
-    URL = "portfolio"
-    weight = 4
 
     [[menu.nav]]
     name = "Team"
     URL = "our-team"
     weight = 5
-
-    [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
-    weight = 6
 
     [[menu.nav]]
     name = "Blog"
@@ -63,18 +53,18 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
-    heading = "Open Source GIS for All"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    heading = "Supported Open Source GIS?"
+    content= "Do want to use Open Source for GIS, but you are affraid to do it on your own?"
     btn = true
-    btnText="Explore Us"
+    btnText="We can help"
     btnURL="#about"
 
     # call to action
     [params.cta]
     enable = true
-    title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    btnURL = "#"
+    title = "The right team"
+    content = "We are an international team of professional QGIS developers, trainers, testers and documenters working together to provide each client the spatial services he needs"
+    btnURL = "#contact-us"
     btnText = "Start a project with us"
 
     # counter
@@ -82,13 +72,13 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
-        title = "Happy Clients"
-        icon = "tf-ion-android-happy"
+        title = "QGIS Commits"
+        icon = "tf-ion-archive"
         count = "320"
 
         [[params.counter.counterItem]]
-        title = "Projects completed"
-        icon = "tf-ion-archive"
+        title = "Trainings"
+        icon = "tf-ion-android-happy"
         count = "565"
 
         [[params.counter.counterItem]]
@@ -97,7 +87,7 @@ custom_css = ["css/custom.css"]
         count = "95"
 
         [[params.counter.counterItem]]
-        title = "Cups of Coffee"
+        title = "Slices of Pizza"
         icon = "tf-ion-coffee"
         count = "2500"
 

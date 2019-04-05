@@ -3,13 +3,13 @@ heading : About
 headingSpan : Us
 aboutItem :
 - icon : tf-tools
-  title : We're Multidisciplinary
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : We're Core
+  content : We are QGIS core developers, trainers, documenters, testers.
 
-- icon : tf-strategy
-  title : We're Professional
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+- icon : tf-anchor2
+  title : We're Open
+  content : All our work is done as open source and contributed back to QGIS.
 
 - icon : tf-anchor2
   title : We're Global
-  content : Our team is spreaded around the wolrd (United States, Europe, and Oceania). We speak English, French, Spanish, Portuguese, Italian, and Russian.
+  content : Our team is spreaded around the world and we speak six languages.

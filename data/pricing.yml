@@ -1,4 +1,4 @@
-enable : true
+enable : false
 heading : Our Greatest
 headingSpan : Plans
 pricingTable :
@@ -14,7 +14,7 @@ pricingTable :
       - planDetails : 1 GB Storage
       - planDetails : 10 GB Bandwidth
       - planDetails : 24/7 Tech Support
-      
+
   - title : Silver
     price : $149
     time : month
@@ -27,7 +27,7 @@ pricingTable :
       - planDetails : 1 GB Storage
       - planDetails : 10 GB Bandwidth
       - planDetails : 24/7 Tech Support
-      
+
   - title : Gold
     price : $199
     time : month
@@ -40,7 +40,7 @@ pricingTable :
       - planDetails : 1 GB Storage
       - planDetails : 10 GB Bandwidth
       - planDetails : 24/7 Tech Support
-      
+
   - title : Platinum
     price : $299
     time : month
