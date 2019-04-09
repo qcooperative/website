@@ -8,7 +8,7 @@ serviceItem :
 
   - icon : tf-genius
     title : Training
-    content : Our international team of experienced trainers can deliver the best training on QGIS in Europe and in the US, ranging from introductory courses to advanced QGIS development both for the desktop and the server.
+    content : Our international team of experienced trainers can deliver the best training on QGIS in Europe and the US, ranging from introductory courses to advanced QGIS development both for desktop and server.
 
   - icon : tf-globe
     title : Ready for the web?
@@ -20,7 +20,7 @@ serviceItem :
 
   - icon : tf-target3
     title : Quality assurance
-    content : Our team has been providing QA services for QGIS for years, we can run manual and automated test on different platforms and fix bugs upstream on QGIS and on the most common open source GIS libraries.
+    content : Our team has been providing QA services for QGIS for years, we can run manual and automated tests on different platforms and fix bugs upstream on QGIS and on the most common open source GIS libraries.
 
   - icon : tf-lifesaver
     title : Qualified support
