@@ -6,10 +6,19 @@
     <description>Recent content in Author on QCooperative</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
     
 	<atom:link href="https://www.qcooperative.net/author/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://www.qcooperative.net/author/jamica-jock/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://www.qcooperative.net/author/jamica-jock/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu magna arcu.</description>
+    </item>
     
     <item>
       <title></title>
@@ -27,15 +36,6 @@
       
       <guid>https://www.qcooperative.net/author/somrat/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.qcooperative.net/author/jamica-jock/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://www.qcooperative.net/author/jamica-jock/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu magna arcu.</description>
     </item>
     
     <item>
