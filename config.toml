@@ -1,4 +1,4 @@
-baseURL = "https://qcooperative.github.io/website/"
+baseURL = "https://www.qcooperative.net"
 languageCode = "en-us"
 title = "QCooperative"
 theme = "meghna-hugo"

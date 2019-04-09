@@ -2,19 +2,13 @@ enable : true
 heading : Our
 headingSpan : Team
 teamMember :
-  - image : images/team/team-1.jpg
-    name : Alessandro Pasoti
+  - image : images/team/elpaso-profile-bw.png
+    name : Alessandro Pasotti
     designation : Python/C++ Developer
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Alessandro has more than 15 years experience on developing GIS driven desktop and web applications. He is a QGIS core developer and proud member of the QGIS community.
     socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
       - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "https://twitter.com/elpaso66/"
 
   - image : images/team/team-2.jpg
     name : Alexandre Neto
