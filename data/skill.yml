@@ -1,12 +1,13 @@
 enable : true
 heading : Our
 headingSpan : Skills
-title : We’ve skilled in wide range of web and Other digital market tools.
-content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-image : images/about/company-growth.png
+title : We’ve skilled professionals ready to offer you a wide range of GIS services and spatial analysis tools.
+content : We are an agile team with a broad sprectrum of compentence and skills, we can help your business to grow by leveraging the most advanced open-source spatial analysis and data processing technology.
+#image : images/about/company-growth.png
+image : images/blank.png
 skillItem :
   - itemNumber : 01-
-    itemName :  QGIS Development
+    itemName :  QGIS Core Development
     itemPercent : 90%
 
   - itemNumber : 02-
@@ -21,6 +22,10 @@ skillItem :
     itemName :  Training
     itemPercent : 95%
 
-  - itemNumber : 05-
+  - itemNumber : 06-
+    itemName :  Support
+    itemPercent : 90%
+
+  - itemNumber : 06-
     itemName :  QA and Testing
     itemPercent : 75%
