@@ -10,19 +10,15 @@ teamMember :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/elpaso66/"
 
-  - image : images/team/team-2.jpg
+  - image : images/team/aneto-profile-bw.png
     name : Alexandre Neto
     designation : Documentation/Training
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : With an MSc in GIS, Alexandre is a Specialist in spatial analysis, cartography and (spatial) data management. He is a core contributor to QGIS user and training manuals.
     socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/AlexNetoGeo"
       - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "https://www.linkedin.com/in/alexandre-neto-81a40722/"
 
   - image : images/team/team-3.jpg
     name : Alexander Bruy
