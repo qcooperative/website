@@ -39,7 +39,7 @@ hugo -D serve
 To build for deployment, that is build to the public folder, just do:
 
 ```
-Hugo
+hugo
 ```
 
 Then, change to the public folder (which is checked at gh-pages), commit and push the changes:
