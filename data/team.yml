@@ -48,10 +48,10 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
 
-  - image : images/team/team-4.jpg
+  - image : images/team/geomenke-profile-bw
     name : Kurt Menke
     designation : Training
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Kurt has a broad skillset. He is a QGIS power user, spatial analyst, cartographer, web map developer, teacher and author with 20 years of geospatial experience. 
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
