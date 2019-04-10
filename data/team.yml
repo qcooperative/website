@@ -53,14 +53,10 @@ teamMember :
     designation : Training
     description : Kurt has a broad skillset. He is a QGIS power user, spatial analyst, cartographer, web map developer, teacher and author with 20 years of geospatial experience. 
     socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/geomenke"
       - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "https://www.linkedin.com/in/kurtmenke/"
 
   - image : images/team/team-4.jpg
     name : Luigi Pirelli
