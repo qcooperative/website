@@ -48,10 +48,10 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
 
-  - image : images/team/geomenke-profile-bw
+  - image : images/team/geomenke-profile-bw.png
     name : Kurt Menke
     designation : Training
-    description : Kurt has a broad skillset. He is a QGIS power user, spatial analyst, cartographer, web map developer, teacher and author with 20 years of geospatial experience. 
+    description : Kurt has a broad skillset. He is a QGIS power user, spatial analyst, cartographer, web map developer, teacher and author with 20 years of geospatial experience.
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/geomenke"
@@ -70,7 +70,7 @@ teamMember :
       - icon : tf-ion-social-linkedin
         url : "#"
       - icon : tf-ion-social-dribbble-outline
-        url : "#" 
+        url : "#"
 
   - image : images/team/volaya.jpg
     name : Victor Olaya
@@ -79,4 +79,4 @@ teamMember :
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/volayaf/"
-     
+
