@@ -42,6 +42,15 @@ To build for deployment, that is build to the public folder, just do:
 hugo
 ```
 
+
+Commit the changes to the sources first
+
+```
+git add -u  # and add new assets if any
+git commit -m "Update sources"
+git push origin master
+```
+
 Then, change to the public folder (which is checked at gh-pages), commit and push the changes:
 
 ```
