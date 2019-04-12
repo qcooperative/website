@@ -27,13 +27,13 @@ git worktree add -B gh-pages public origin/gh-pages
 After you do some change to the content of the site, you can check how it looks by doing:
 
 ```
-hugo serve
+hugo server
 ```
 
 or, to show draft posts:
 
 ```
-hugo -D serve
+hugo -D server
 ```
 
 To build for deployment, that is build to the public folder, just do:
