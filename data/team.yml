@@ -58,19 +58,15 @@ teamMember :
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/kurtmenke/"
 
-  - image : images/team/team-4.jpg
+  - image : images/team/luipir-profile-bw.png
     name : Luigi Pirelli
     designation : Python/C++ Developer
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : More than 20 years developing Earth Observation and GIS solutions. QGIS core developer specialised in bug fix, plugin development, Point Cloud processing and technical training. Founder of the Italian OSGeo local chapter and Spanish QGIS User Group.
     socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
       - icon : tf-ion-social-twitter
-        url : "#"
+        url : "https://twitter.com/Ginetto"
       - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+        url : "https://www.linkedin.com/in/luigipirelli/"
 
   - image : images/team/volaya.jpg
     name : Victor Olaya
