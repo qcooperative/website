@@ -16,7 +16,7 @@ Notice that the minimum version required for the Meghna theme is Hugo 0.48, whil
 
 ## Prepare deployment folder
 
-Create an public folder and fetch the gh-page branch in it:
+Create ```public``` folder inside the cloned ```website``` and fetch the gh-page branch in it running the following command from the cloned ```website``` folder:
 
 ```
 git worktree add -B gh-pages public origin/gh-pages
