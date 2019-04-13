@@ -19,6 +19,10 @@ skillItem :
     itemPercent : 80%
 
   - itemNumber : 04-
+    itemName :  Point Clound processing
+    itemPercent : 80%
+
+  - itemNumber : 05-
     itemName :  Training
     itemPercent : 95%
 
@@ -26,6 +30,6 @@ skillItem :
     itemName :  Support
     itemPercent : 90%
 
-  - itemNumber : 06-
+  - itemNumber : 07-
     itemName :  QA and Testing
     itemPercent : 75%

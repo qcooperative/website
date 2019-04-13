@@ -18,6 +18,10 @@ serviceItem :
     title : Spatial analysis
     content : We are experts in processing spatial data and extracting the useful information you need. Let us help you build efficient geoprocessing pipelines for vector data and raster imagery.
 
+  - icon : tf-ion-ios-keypad-outline
+    title : Point Cloud processing
+    content : Manage complexity to process and serve Point Clound acquired via Aerial or Mobile LIDAR. We can help to extract valuable derived data.
+
   - icon : tf-target3
     title : Quality assurance
     content : Encountering an annoying bug? Our team has been providing QA services for QGIS for years. We can run manual and automated tests on different platforms and fix bugs upstream on QGIS and on the most common open source GIS libraries.
