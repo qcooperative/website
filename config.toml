@@ -51,7 +51,7 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
+    bgImage = "images/slider/QCoopEssen.jpg"
     icon = "tf-ion-play"
     heading = "Supported Open Source GIS?"
     content= "Do want to use Open Source for GIS, but you are afraid to do it on your own?"
