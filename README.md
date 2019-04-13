@@ -7,8 +7,6 @@ QCooperative website. The site is built using [hugo](https://gohugo.io/) with th
 This repository uses submodules, use the recursive option to clone:
 
 ```
-mkdir public
-cd public
 git clone --recursive git@github.com:qcooperative/website.git
 ```
 
