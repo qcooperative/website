@@ -13,7 +13,7 @@ teamMember :
   - image : images/team/aneto-profile-bw.png
     name : Alexandre Neto
     designation : Spatial Analysis/Training
-    description : With an MSc in GIS, Alexandre is a Specialist in spatial analysis, cartography and (spatial) data management. He is a core contributor to QGIS user and training manuals.
+    description : With an MSc in GIS, Alexandre is a specialist in spatial analysis, cartography and spatial data management. He is a core contributor to QGIS user and training manuals.
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/AlexNetoGeo"
@@ -31,7 +31,7 @@ teamMember :
   - image : images/team/team-4.jpg
     name : Giovanni Manghi
     designation : Training/Testing
-    description : Founding partner of OSGeo Portugal and the Portuguese QGIS user group. Over 10 years of experience in Open Source GIS, with special focus on training, quality assurance/testing and implementing spatial infrastructures.
+    description : Giovanni is a founding partner of OSGeo Portugal and the Portuguese QGIS user group. He has over 10 years of experience in open source GIS, with a special focus on training, quality assurance/testing and implementing spatial infrastructures.
     socialIcon :
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/giovannimanghi/"
@@ -39,7 +39,7 @@ teamMember :
   - image : images/team/geomenke-profile-bw.png
     name : Kurt Menke
     designation : Training
-    description : Kurt has a broad skillset. He is a QGIS power user, spatial analyst, cartographer, web map developer, teacher and author with 20 years of geospatial experience.
+    description : Kurt is a QGIS power user, spatial analyst, cartographer, web map developer, teacher and author with 20+ years of geospatial experience. He has worked on hundreds of projects in a wide variety of application areas. He is an OsGeo Charter Member and helped establish the QGIS U.S User Group.
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/geomenke"
@@ -49,7 +49,7 @@ teamMember :
   - image : images/team/luipir-profile-bw.png
     name : Luigi Pirelli
     designation : Python/C++ Developer
-    description : More than 20 years developing Earth Observation and GIS solutions. QGIS core developer specialised in bug fix, plugin development, Point Cloud processing and technical training. Founder of the Italian OSGeo local chapter and Spanish QGIS User Group.
+    description : Luigi has more than 20 years of experience developing GIS and earth observation solutions. He is a QGIS core developer specializing in bug fixing, plugin development, point cloud processing and technical training. He is the founder of the Italian OSGeo local chapter and Spanish QGIS User Group.
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/Ginetto"
