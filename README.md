@@ -6,7 +6,9 @@ QCooperative website. The site is built using [hugo](https://gohugo.io/) with th
 
 This repository uses submodules, use the recursive option to clone:
 
+```
 git clone --recursive git@github.com:qcooperative/website.git
+```
 
 ## Install hugo 4.8+
 
