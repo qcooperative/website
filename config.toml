@@ -54,7 +54,7 @@ custom_css = ["css/custom.css"]
     bgImage = "images/slider/QCoopEssen.jpg"
     icon = "tf-ion-play"
     heading = "Supported Open Source GIS?"
-    content= "Do want to use Open Source for GIS, but you are afraid to do it on your own?"
+    content= "Do you want to use Open Source for GIS, but are afraid to do it on your own?"
     btn = true
     btnText="We can help"
     btnURL="#about"
@@ -124,3 +124,8 @@ custom_css = ["css/custom.css"]
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-pinterest-outline"
         url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-pinterest-outline"
+        url = "#"
+
