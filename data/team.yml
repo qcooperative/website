@@ -38,7 +38,7 @@ teamMember :
 
   - image : images/team/geomenke-profile-bw.png
     name : Kurt Menke
-    designation : Training
+    designation : Spatial Analysis/Cartography/Training
     description : Kurt is a QGIS power user, spatial analyst, cartographer, web map developer, teacher and author with 20+ years of geospatial experience. He has worked on hundreds of projects in a wide variety of application areas. He is an OsGeo Charter Member and helped establish the QGIS U.S User Group.
     socialIcon :
       - icon : tf-ion-social-twitter
