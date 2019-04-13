@@ -4,12 +4,12 @@ headingSpan : Us
 aboutItem :
 - icon : tf-genius
   title : We're Core
-  content : We are QGIS core developers, trainers, documenters, testers.
+  content : We are core QGIS developers, spatial analysts, trainers, and testers.
 
 - icon : tf-chat
   title : We're Open
-  content : All our work is done as open source and contributed back to QGIS.
+  content : We work with open source tools and contribute features and bug fixes back to QGIS.
 
 - icon : tf-ion-android-globe
   title : We're Global
-  content : Our team is spreaded around the world and we speak six languages.
+  content : Our team members are located around the world and collectively we speak six languages.
