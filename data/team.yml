@@ -12,7 +12,7 @@ teamMember :
 
   - image : images/team/aneto-profile-bw.png
     name : Alexandre Neto
-    designation : Documentation/Training
+    designation : Spatial Analysis/Training
     description : With an MSc in GIS, Alexandre is a Specialist in spatial analysis, cartography and (spatial) data management. He is a core contributor to QGIS user and training manuals.
     socialIcon :
       - icon : tf-ion-social-twitter
@@ -63,4 +63,3 @@ teamMember :
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/volayaf/"
-
