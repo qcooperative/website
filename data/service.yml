@@ -4,24 +4,24 @@ headingSpan : Services
 serviceItem :
   - icon :  tf-ion-android-laptop
     title : GIS development
-    content : QGIS development - whether you need a simple Python plugin to speed-up your daily job or you want to develop a new C++ core geoprocessing pipeline we have the skills and experience to meet your requirements.
+    content : Our team represents some of the most experienced QGIS developers - whether you need a Python plugin make your work easier or a new feature in QGIS we have the skills and experience to get the job done.
 
   - icon : tf-genius
     title : Training
-    content : Our international team of experienced trainers can deliver the best training on QGIS in Europe and the US, ranging from introductory courses to advanced QGIS development both for desktop and server.
+    content : Our international team of experienced trainers can deliver custom QGIS training (U.S. or Europe), ranging from introductory courses to custom advanced QGIS development - both for desktop and server.
 
   - icon : tf-globe
     title : Ready for the web?
-    content : If you want to publish your maps and analysis we can provide you the most advanced Web GIS interactive applications and tailor them to suit your most demanding requirements.
+    content : If you want to publish your maps and analysis to the web we can provide you the most advanced applications and tailor them to suit your most demanding requirements.
 
   - icon : tf-piechart
     title : Spatial analysis
-    content : Crunching spatial data to extract all kind of information from all sort of spatially enabled backends is one of our goals. We can help you to build your efficient geoprocessing pipelines for vector data and imagery.
+    content : We are experts in processing spatial data and extracting the useful information you need. Let us help you build efficient geoprocessing pipelines for vector data and raster imagery.
 
   - icon : tf-target3
     title : Quality assurance
-    content : Our team has been providing QA services for QGIS for years, we can run manual and automated tests on different platforms and fix bugs upstream on QGIS and on the most common open source GIS libraries.
+    content : Encountering an annoying bug? Our team has been providing QA services for QGIS for years. We can run manual and automated tests on different platforms and fix bugs upstream on QGIS and on the most common open source GIS libraries.
 
   - icon : tf-lifesaver
     title : Qualified support
-    content : Need help to find the best way to solve GIS processing problem? Is there any annoying bug slowing you down? We can help you with customized support plans for your company.
+    content : Need help solving a GIS processing problem or data issue? We are available to help you work through those tricky issues. We can help you with customized support plans for your company.
