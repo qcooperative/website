@@ -29,7 +29,7 @@ teamMember :
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/alexander-bruy-0913a785/"
 
-  - image : images/team/team-4.jpg
+  - image : images/team/gmanghi-profile-bw.jpg
     name : Giovanni Manghi
     designation : Training/Testing
     description : Giovanni is a founding partner of OSGeo Portugal and the Portuguese QGIS user group. He has over 10 years of experience in open source GIS, with a special focus on training, quality assurance/testing and implementing spatial infrastructures.
