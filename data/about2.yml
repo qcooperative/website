@@ -1,6 +1,6 @@
 enable : true
 image : images/about/about-business-man.jpg
-title : We are your QGIS support team
+title : We Are Your QGIS Support Team
 description : Whether you are downloading QGIS for the first time or looking for core feature development, we have the skills and experience to meet your needs. QCooperative is an international group of professional developers, spatial analysts, trainers, testers and documenters working together to provide a broad range of suppport services for the leading Open Source GIS - QGIS.
 description2 : Committed to Open Source ethics, we are proud and active members in many key GIS related communities and projects.
 aboutItem :
