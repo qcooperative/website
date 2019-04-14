@@ -1,7 +1,7 @@
 enable : true
 heading : Our
 headingSpan : Team
-bgImage : "images/slider/QCoopEssen.jpg"
+#bgImage : "images/slider/QCoopEssen.jpg"
 teamMember :
   - image : images/team/elpaso-profile-bw.png
     name : Alessandro Pasotti
