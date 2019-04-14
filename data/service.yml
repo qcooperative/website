@@ -4,28 +4,28 @@ headingSpan : Services
 serviceItem :
   - icon :  tf-ion-android-laptop
     title : GIS development
-    content : Our team represents some of the most experienced QGIS developers - whether you need a Python plugin make your work easier or a new feature in QGIS we have the skills and experience to get the job done.
+    content : We are core developers creating plugins and core features to make QGIS work for you. 
 
   - icon : tf-genius
     title : Training
-    content : Our international team of experienced trainers can deliver custom QGIS training (U.S. or Europe), ranging from introductory courses to custom advanced QGIS development - both for desktop and server.
+    content : We are experienced educators providing people of all backgrounds with the knowledge needed to use both QGIS Desktop and QGIS Server with confidence.
 
   - icon : tf-globe
-    title : Ready for the web?
-    content : If you want to publish your maps and analysis to the web we can provide you the most advanced applications and tailor them to suit your most demanding requirements.
+    title : Ready for the Web?
+    content : We provide the most advanced applications to publish maps and analysis to the web, and tailor them to suit your most demanding requirements.
 
   - icon : tf-piechart
     title : Spatial analysis
-    content : We are experts in processing spatial data and extracting the useful information you need. Let us help you build efficient geoprocessing pipelines for vector data and raster imagery.
+    content : As experts in processing spatial data and extracting the useful information you need, we help you build efficient geoprocessing pipelines for vector data and raster imagery.
 
   - icon : tf-ion-ios-keypad-outline
-    title : Point Cloud processing
-    content : We can process and serve point cloud data acquired via aerial or mobile LIDAR sensors and extract valuable derived data.
+    title : Point cloud processing
+    content : We process and serve point cloud data acquired via aerial or mobile LIDAR sensors and extract valuable derived data.
 
   - icon : tf-target3
     title : Quality assurance
-    content : Encountering an annoying bug? Our team has been providing QA services for QGIS for years. We can run manual and automated tests on different platforms and fix bugs upstream on QGIS and on the most common open source GIS libraries.
+    content : Encountering an annoying bug? We can fix it! We run manual and automated tests on different platforms and fix bugs upstream in QGIS and in the most common open source GIS libraries.
 
   - icon : tf-lifesaver
     title : Qualified support
-    content : Need help solving a GIS processing problem or data issue? We are available to help you work through those tricky issues. We can help you with customized support plans for your company.
+    content : Need help solving a GIS processing problem or data issue? We help you you work through those tricky issues with individualized attention and customized support plans.
