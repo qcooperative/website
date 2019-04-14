@@ -1,8 +1,8 @@
 enable : true
 heading : Our
 headingSpan : Skills
-title : We are skilled professionals ready to offer you a wide range of GIS services.
-content : We are an agile team with a broad sprectrum of competence and skills, we can help your business to grow by leveraging the most advanced open-source spatial analysis and data processing technology.
+title : Skilled Professionals Offering Open Source GIS Support and Services
+content : We help businesses grow by leveraging the most advanced open-source spatial analysis and data processing technology.
 #image : images/about/company-growth.png
 image : images/blank.png
 skillItem :
@@ -32,4 +32,8 @@ skillItem :
 
   - itemNumber : ""
     itemName :  QA and Testing
+    itemPercent : 100%
+    
+  - itemNumber : ""
+    itemName :  Cartography and Data Visualization
     itemPercent : 100%
