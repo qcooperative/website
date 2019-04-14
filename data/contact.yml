@@ -2,7 +2,7 @@ enable : true
 heading : Get In
 headingSpan : Touch
 title : Contact Details
-content : We are here to help! Please provide a brief describe of your project and what we can do for you, and we will get in touch with you ASAP.
+content : We are here to help! Please provide a brief description of your project and what your needs are.
 enable_maps : false
 mapLatitude : 51.5223477
 mapLongitude: -0.1622023
