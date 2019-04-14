@@ -6,30 +6,30 @@ content : We are an agile team with a broad sprectrum of competence and skills, 
 #image : images/about/company-growth.png
 image : images/blank.png
 skillItem :
-  - itemNumber : 01-
+  - itemNumber : ""
     itemName :  QGIS Core Development
-    itemPercent : 90%
+    itemPercent : 100%
 
-  - itemNumber : 02-
+  - itemNumber : ""
     itemName :  QGIS Plugin Developement
-    itemPercent : 70%
+    itemPercent : 100%
 
-  - itemNumber : 03-
+  - itemNumber : ""
     itemName :  Spatial Analysis
-    itemPercent : 80%
+    itemPercent : 100%
 
-  - itemNumber : 04-
+  - itemNumber : ""
     itemName :  Point Clound processing
-    itemPercent : 80%
+    itemPercent : 100%
 
-  - itemNumber : 05-
+  - itemNumber : ""
     itemName :  Training
-    itemPercent : 95%
+    itemPercent : 100%
 
-  - itemNumber : 06-
+  - itemNumber : ""
     itemName :  Support
-    itemPercent : 90%
+    itemPercent : 100%
 
-  - itemNumber : 07-
+  - itemNumber : ""
     itemName :  QA and Testing
-    itemPercent : 75%
+    itemPercent : 100%
