@@ -61,35 +61,35 @@ custom_css = ["css/custom.css"]
 
     # call to action
     [params.cta]
-    enable = false
-    title = "The right team"
-    content = "We are an international team of professional QGIS developers, trainers, testers and documenters working together to provide each client the spatial services he needs"
-    btnURL = "#contact-us"
-    btnText = "Start a project with us"
+    enable = true
+        #title = "The right team"
+        #content = "We are an international team of professional QGIS developers, trainers, testers and documenters working together to provide each client the spatial services he needs"
+        btnURL = "#contact-us"
+        btnText = "Start a project with us"
 
     # counter
     [params.counter]
-    enable = false
+    enable = true
     bgImage = "images/slider/QCoopEssen.jpg"
-        [[params.counter.counterItem]]
-        title = "QGIS Commits"
-        icon = "tf-ion-archive"
-        count = "320"
+        #[[params.counter.counterItem]]
+        #title = "QGIS Commits"
+        #icon = "tf-ion-archive"
+        #count = "320"
 
-        [[params.counter.counterItem]]
-        title = "Trainings"
-        icon = "tf-ion-android-happy"
-        count = "565"
+        #[[params.counter.counterItem]]
+        #title = "Trainings"
+        #icon = "tf-ion-android-happy"
+        #count = "565"
 
-        [[params.counter.counterItem]]
-        title = "Positive feedback"
-        icon = "tf-ion-thumbsup"
-        count = "95"
+        #[[params.counter.counterItem]]
+        #title = "Positive feedback"
+        #icon = "tf-ion-thumbsup"
+        #count = "95"
 
-        [[params.counter.counterItem]]
-        title = "Slices of Pizza"
-        icon = "tf-ion-coffee"
-        count = "2500"
+        #[[params.counter.counterItem]]
+        #title = "Slices of Pizza"
+        #icon = "tf-ion-coffee"
+        #count = "2500"
 
     # footer
     [params.footer]
