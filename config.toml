@@ -61,7 +61,7 @@ custom_css = ["css/custom.css"]
 
     # call to action
     [params.cta]
-    enable = true
+    enable = false
     title = "The right team"
     content = "We are an international team of professional QGIS developers, trainers, testers and documenters working together to provide each client the spatial services he needs"
     btnURL = "#contact-us"
@@ -69,7 +69,7 @@ custom_css = ["css/custom.css"]
 
     # counter
     [params.counter]
-    enable = true
+    enable = false
     bgImage = "images/slider/QCoopEssen.jpg"
         [[params.counter.counterItem]]
         title = "QGIS Commits"
