@@ -20,7 +20,7 @@ serviceItem :
 
   - icon : tf-ion-ios-keypad-outline
     title : Point Cloud processing
-    content : Manage complexity to process and serve Point Clound acquired via Aerial or Mobile LIDAR. We can help to extract valuable derived data.
+    content : We can process and serve point cloud data acquired via aerial or mobile LIDAR sensors and extract valuable derived data.
 
   - icon : tf-target3
     title : Quality assurance
