@@ -54,9 +54,9 @@ custom_css = ["css/custom.css"]
     bgImage = "images/slider/QCoopEssen.jpg"
     icon = "tf-ion-play"
     heading = "Supported Open Source GIS?"
-    content= "Do you want to use Open Source for GIS, but are afraid to do it on your own?"
+    content= "Want to use Open Source for GIS, but need help implementing it?"
     btn = true
-    btnText="We can help"
+    btnText="We know how"
     btnURL="#about"
 
     # call to action
