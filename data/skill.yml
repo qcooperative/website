@@ -11,7 +11,7 @@ skillItem :
     itemPercent : 100%
 
   - itemNumber : ""
-    itemName :  QGIS Plugin Developement
+    itemName :  QGIS Plugin Development
     itemPercent : 100%
 
   - itemNumber : ""
@@ -19,7 +19,7 @@ skillItem :
     itemPercent : 100%
 
   - itemNumber : ""
-    itemName :  Point Clound processing
+    itemName :  Point Cloud processing
     itemPercent : 100%
 
   - itemNumber : ""
