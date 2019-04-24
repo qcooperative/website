@@ -45,7 +45,7 @@ gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSp
 description = "Supported Open Source GIS"
 author = "QCooperative"
 # Google Analitycs
-googleAnalitycsID = "UA-10393706-5"
+googleAnalitycsID = "UA-138401524-1"
 custom_css = ["css/custom.css"]
 
     # Banner Section
