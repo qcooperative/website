@@ -26,10 +26,10 @@ summaryLength = 10
     URL = "our-team"
     weight = 5
 
-    #[[menu.nav]]
-    #name = "Blog"
-    #URL = "blog"
-    #weight = 7
+    [[menu.navlink]]
+    name = "Blog"
+    URL = "/blog/"
+    weight = 7
 
     [[menu.nav]]
     name = "Contact"
