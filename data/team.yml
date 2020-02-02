@@ -68,7 +68,7 @@ teamMember :
   - image : images/team/pblottiere.png
     name : Paul Blottiere
     designation : Python/C++ Developer
-    description : Paul is a GIS software engineer with a pronounced passion for teaching and training. He is a QGIS core committer and system administrator for the certifications infrastructure of QGIS Server.
+    description : Paul is a GIS software engineer with a pronounced passion for teaching and training. He is a QGIS core committer and system administrator for the OGC certifications infrastructure of QGIS Server.
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/pblottiere/"
