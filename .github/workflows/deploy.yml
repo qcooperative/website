@@ -11,6 +11,9 @@ jobs:
     steps:
     - uses: actions/checkout@master
 
+    - name: Pull submodules
+      run: git submodule update --init
+
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.2.0
 
