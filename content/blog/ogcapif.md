@@ -35,7 +35,7 @@ mechanisms to work on. It was quite a challenge!
 
 At that time, the QCooperative was remotely participating in OGC sprints to
 closely monitor the development of the new OGC API Features protocol. Hence, we
-started the implementation and a fully operationnal version landed in [QGIS
+started its implementation and a fully operational version landed in [QGIS
 Server 3.10](http://blog.qgis.org/2019/11/26/qgis-server-is-ready-for-the-new-ogc-api-for-features-protocol/).
 
 
