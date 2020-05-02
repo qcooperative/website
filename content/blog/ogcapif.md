@@ -41,7 +41,7 @@ Server 3.10](http://blog.qgis.org/2019/11/26/qgis-server-is-ready-for-the-new-og
 
 # Implementation and features
 
-As a reminder, the WFS protocol allows to manipulate vector features unlike the
+As a reminder, the WFS protocol allows to manipulate vector features, unlike the
 WMS format which provides raster outputs. OGC API Features is the natural
 continuity and consistently provides basic mechanisms to retieve features and
 corresponding information in a specific area (the famous `GetFeatureInfo`
