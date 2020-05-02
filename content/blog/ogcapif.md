@@ -25,7 +25,7 @@ by the OGC for the WMS 1.3.0 service (recently renewed for QGIS 3.10).
 Last year in 2019, a new protocol has been developped and named OGC API
 Features (commonly known as WFS3). With the purpose of having an up-to-date
 QGIS Server, the OSGeo have dedicated some funds to work on the implementation
-of this brand-new service. But we wanted to do it right, so the ambition was
+of this brand-new service, but we wanted to do it right, so the ambition was
 also to reach the OGC certification!
 
 However, this new protocol gets rid of the XML specification to use the OpenAPI
