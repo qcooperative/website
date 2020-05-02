@@ -30,7 +30,7 @@ also to reach the OGC certification!
 
 However, this new protocol gets rid of the XML specification to use the OpenAPI
 standard as well as the JSON open format instead. In other words, it's not just
-another protocol to support, but it's a whole package of changes and fresh
+another protocol to support, but a whole package of changes and fresh
 mechanisms to work on. It was quite a challenge!
 
 At this time the QCooperative was remotely participated to OGC sprints to
