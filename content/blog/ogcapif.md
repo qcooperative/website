@@ -33,7 +33,7 @@ standard as well as the JSON open format instead. In other words, it's not just
 another protocol to support, but a whole package of changes and fresh
 mechanisms to work on. It was quite a challenge!
 
-At this time the QCooperative was remotely participated to OGC sprints to
+At that time, the QCooperative was remotely participating in OGC sprints to
 closely monitor the development of the new OGC API Features protocol. Hence we
 started the implementation and a fully operationnal version landed in [QGIS
 Server 3.10](http://blog.qgis.org/2019/11/26/qgis-server-is-ready-for-the-new-ogc-api-for-features-protocol/).
