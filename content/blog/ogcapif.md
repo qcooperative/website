@@ -5,6 +5,11 @@ author: Paul Blottiere and Alessandro Pasotti
 draft: false
 ---
 
+<p align="center">
+<i>"QGIS Server is dead simple to setup and ready to be OGCAPIF certified!"</i>
+<br/>
+<i>Luigi Pirelli</i>
+</p>
 
 # Introduction
 
