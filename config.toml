@@ -26,10 +26,10 @@ summaryLength = 10
     URL = "our-team"
     weight = 5
 
-    #[[menu.nav]]
-    #name = "Blog"
-    #URL = "blog"
-    #weight = 7
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 7
 
     [[menu.nav]]
     name = "Contact"
@@ -104,3 +104,8 @@ custom_css = ["css/custom.css"]
         icon = "tf-ion-social-github"
         url = "https://github.com/qcooperative/"
 
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
