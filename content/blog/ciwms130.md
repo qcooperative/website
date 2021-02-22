@@ -1,5 +1,5 @@
 ---
-title: "QGIS Grant Program: QGIS Server, OGC tests and continuous integration"
+title: "QGIS Grant Program - Part 1: QGIS Server, OGC tests and continuous integration"
 date: 2021-02-18
 author: Paul Blottiere
 draft: false
@@ -13,13 +13,18 @@ improving the QGIS ecosystem on too often neglected subjects like refactoring,
 packaging or upstream studies. In light of this event, called QGIS Grant
 Program, some ideas proposed by the
 [QCooperative](https://www.qcooperative.net/) team have been accepted by the
-voting members. One of them was: *QGIS Server, OGC tests and Continuous
-Integration*.
+voting members:
 
-QGIS Server is certified for WMS 1.3.0 for several years now and nightly tests
-on the *master* branch allows to ensure that the server is still compliant.
-While being a solid first step, checking the compliance on *master* and not on
-new developments may lead to regressions which need to be fixed afterwards.
+- QGIS Server, OGC tests and Continuous Integration
+- QGIS Quality Assurance methodology and infrastructure
+- QGIS Server and performance monitoring
+
+In this first article out of three, we are going to focus on the former topic.
+Indeed, QGIS Server is certified for WMS 1.3.0 for several years now and
+nightly tests on the *master* branch allows to ensure that the server is still
+compliant.  While being a solid first step, checking the compliance on *master*
+and not on new developments may lead to regressions which need to be fixed
+afterwards.
 
 Since *"prevention is better than cure"*, we proposed to reinforce the current
 continuous integration mechanism to run these OGC tests before merging a new
@@ -74,6 +79,7 @@ impacting the behavior of QGIS Server.
 Thanks to the 2020 QGIS Grant Programm, QGIS Server reached a new step
 regarding the quality assurance. Indeed, the WMS 1.3.0 compliance is now a
 mandatory requirement for all new developments wishing to be merged in QGIS.
-
 Henceworth, our next objective is to reach the same maturity regarding the OGC
 API Features protocol.
+
+See you soon for talking about quality assurrance and QGIS Desktop!
