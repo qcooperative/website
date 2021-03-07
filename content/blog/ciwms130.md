@@ -1,6 +1,6 @@
 ---
 title: "QGIS Grant Program - Part 1: QGIS Server, OGC tests and continuous integration"
-date: 2021-02-18
+date: 2021-03-07
 author: Paul Blottiere
 draft: false
 ---
