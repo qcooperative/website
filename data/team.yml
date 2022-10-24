@@ -40,7 +40,7 @@ teamMember :
   - image : images/team/geomenke-profile-bw.png
     name : Kurt Menke
     designation : Spatial Analysis/Cartography/Training
-    description : Kurt is a QGIS power user, spatial analyst, cartographer, web map developer, teacher and author with 20+ years of geospatial experience. He has worked on hundreds of projects in a wide variety of application areas. He is an OsGeo Charter Member and helped establish the QGIS U.S User Group.
+    description : Kurt is a QGIS power user, spatial analyst, cartographer, web map developer, teacher and author with 20+ years of geospatial experience. He has worked on hundreds of projects in a wide variety of application areas. He is an OSGeo Charter Member and helped establish the QGIS U.S User Group.
     socialIcon :
       - icon : tf-ion-social-twitter
         url : "https://twitter.com/geomenke"
@@ -74,3 +74,11 @@ teamMember :
         url : "https://twitter.com/pblottiere/"
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/paulblottiere/"
+
+  - image : images/team/tbarascu.png
+    name : Tudor Bărăscu
+    designation: Python Developer
+    description: Tudor is a mechanical engineer and a QGIS contributor. He has extensive experience in QGIS deployments (Desktop, Server, Web, data models) for public utilities companies. Also a QGIS trainer, he loves teaching and promoting QGIS all over the world. He is also a OSGeo charter member, member of the romanian OSGeo local chapter and of the local QGIS organisation.
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/tbarascu/"
