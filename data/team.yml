@@ -37,15 +37,15 @@ teamMember :
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/giovannimanghi/"
 
-  - image : images/team/geomenke-profile-bw.png
-    name : Kurt Menke
-    designation : Spatial Analysis/Cartography/Training
-    description : Kurt is a QGIS power user, spatial analyst, cartographer, web map developer, teacher and author with 20+ years of geospatial experience. He has worked on hundreds of projects in a wide variety of application areas. He is an OSGeo Charter Member and helped establish the QGIS U.S User Group.
+  - image : images/team/hans-profile-bw.png
+    name : Hans van der Kwast
+    designation : Spatial Analysis/Remote Sensing/Training
+    description : Hans is a physical geographer specialised in QGIS for hydrological applications. He is co-founder of the Dutch QGIS User Group and developer of the PCRaster Tools plugin. He has 20 years of experience in GIS education and projects.
     socialIcon :
       - icon : tf-ion-social-twitter
-        url : "https://twitter.com/geomenke"
+        url : "https://twitter.com/hansakwast"
       - icon : tf-ion-social-linkedin
-        url : "https://www.linkedin.com/in/kurtmenke/"
+        url : "https://www.linkedin.com/in/jvdkwast/"
 
   - image : images/team/luipir-profile-bw.png
     name : Luigi Pirelli
@@ -57,14 +57,6 @@ teamMember :
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/luigipirelli/"
 
-  - image : images/team/volaya.jpg
-    name : Victor Olaya
-    designation : Python Developer
-    description : Victor is the creator of the QGIS Processing framework and has more than 10 years of experience developing algorithms and tools for spatial data analysis.
-    socialIcon :
-      - icon : tf-ion-social-twitter
-        url : "https://twitter.com/volayaf/"
-
   - image : images/team/pblottiere.png
     name : Paul Blottiere
     designation : Python/C++ Developer
@@ -74,6 +66,14 @@ teamMember :
         url : "https://twitter.com/pblottiere/"
       - icon : tf-ion-social-linkedin
         url : "https://www.linkedin.com/in/paulblottiere/"
+
+  - image : images/team/volaya.jpg
+    name : Victor Olaya
+    designation : Python Developer
+    description : Victor is the creator of the QGIS Processing framework and has more than 10 years of experience developing algorithms and tools for spatial data analysis.
+    socialIcon :
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/volayaf/"
 
   - image : images/team/tbarascu.png
     name : Tudor Bărăscu
